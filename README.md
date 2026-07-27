@@ -1,16 +1,13 @@
-## Hi there 👋
+Built 67 projects in the last 12 months across ~78 technologies. I ship fast, repeatably, and with a spec-driven process.
 
-<!--
-**hankazarian/hankazarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack** → Astro · Svelte 5 · TypeScript · Python 3.12 · React 19 · Cloudflare Workers · SQLite · Tailwind CSS · Docker · Vite
 
-Here are some ideas to get you started:
+**Domains** → Real estate · SEO · AI/LLM tooling · Content growth · LinkedIn analytics · E-commerce · Mobile (Capacitor) · Game dev (Phaser 3) · CMS (WordPress, Directus, Shopify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Process** → [Spec-Driven Development](https://github.com/hankazarian/three-surface-sdd-runner) — every project runs through `.agent/` + `.sdd/` + `.opencode/` with deterministic validation gates
+
+**AI evolution** → API calls (Gemini/OpenAI/Anthropic) → evaluation harness (Promptfoo, MCP, Temporal) → in-browser inference (WebLLM, Transformers.js)
+
+**Testing** → Vitest · Playwright · pytest · axe-core (a11y) · 0 CI/CD pipelines shipped (intentionally — everything builds locally)
+
+**Full audit** → [technology-catalog.md](./technology-catalog.md) — every technology, project, dependency, config file, and rationale cataloged with evidence
