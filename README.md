@@ -10,4 +10,4 @@ Built over 60 projects in the last 12 months across ~75+ technologies. I ship fa
 
 **Testing** → Vitest · Playwright · pytest · axe-core (a11y) · 0 CI/CD pipelines shipped (intentionally — everything builds locally)
 
-**Full audit** → [technology-catalog.md](./technology-catalog.md) — every technology, project, dependency, config file, and rationale cataloged with evidence
+**Full audit** → [technology-catalog.md](./technology-catalog.md) — every technology, project, dependency, config file, and rationale cataloged with evidence (July-2026)
